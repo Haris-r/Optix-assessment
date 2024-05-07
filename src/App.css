@@ -1,0 +1,18 @@
+.mainBody {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    display: grid;
+    text-align: center;
+}
+
+tbody tr:hover{
+
+    background-color: lightseagreen;
+
+}
+
+
+.selected-row {
+    background-color: lightseagreen; 
+  }
